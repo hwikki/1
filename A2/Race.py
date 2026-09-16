@@ -1,3 +1,5 @@
+#A2: Horse Race Assignment by Yoon Ju (u1658382)
+
 import graphics
 import Dice
 
